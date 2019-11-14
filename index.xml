@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Together</title>
+    <link>https://datatogether.org/</link>
+    <description>Recent content on Data Together</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2019 18:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://datatogether.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://datatogether.org/about/</link>
+      <pubDate>Sun, 20 Oct 2019 23:00:29 -0400</pubDate>
+      
+      <guid>https://datatogether.org/about/</guid>
+      <description>Our history
+Data Together launched in 2016 in the wake of the Data Rescue movement, as archivers organized into working groups to backup at-risk US federal government datasets.
+Since then Data Together has evolved into new model for distributed, community-driven stewardship of data. This model shows how groups of people, companies, institutions, NGOs, and governments can use decentralized and peer-to-peer web infrastructure to access, discover, verify, and preserve data they care about.</description>
+    </item>
+    
+    <item>
+      <title>Join</title>
+      <link>https://datatogether.org/join/</link>
+      <pubDate>Sun, 20 Oct 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://datatogether.org/join/</guid>
+      <description> Join the Google Group to be notified of latest Data Together news. Everyone is welcome to join our sessions!
+Events Find out when our next reading group session is happening and other events related to the Decentralized Web.
+ </description>
+    </item>
+    
+    <item>
+      <title>Reading Group</title>
+      <link>https://datatogether.org/readings/</link>
+      <pubDate>Sun, 20 Oct 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://datatogether.org/readings/</guid>
+      <description>Data Together&amp;rsquo;s reading group is an ongoing conversation on themes relevant to data stewardship.
+Access the current semester&amp;rsquo;s reading group on our Github.
+How it works We organize our reading group by &amp;ldquo;semesters&amp;rdquo; of about six once-a-month conversations over video call, where we meet to discuss our curated reading selections.
+How to participate Anyone is welcome to join! It&amp;rsquo;s also okay to drop in for just one session in a semester.</description>
+    </item>
+    
+    <item>
+      <title>Spring - Summer 2019 Data Together Reading Group</title>
+      <link>https://datatogether.org/reading/semester_2/</link>
+      <pubDate>Sun, 20 Oct 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://datatogether.org/reading/semester_2/</guid>
+      <description>Spring - Summer 2019 Data Together Reading Group This semester&amp;rsquo;s syllabus is a set of conversations on themes relevant to information and ethics.
+Themes  Knowledge Commons (April 9) 🎬 Recorded Call &amp;nbsp; 🗒 Notes &amp;nbsp; 📜 Blog Post Civics (May 7) 🎬 Recorded Call &amp;nbsp; 🗒 Notes &amp;nbsp; 📜 Blog Post Alternatives to Capitalist Structures (June 4) &amp;nbsp; 🎬 Recorded Call &amp;nbsp; 🗒 Notes 📜 Blog Post Stewardship (August 6) &amp;nbsp; 🎬 Recorded Call &amp;nbsp; 🗒 Notes What is Decentralization?</description>
+    </item>
+    
+    <item>
+      <title>Discussion: Stewardship (August 2019)</title>
+      <link>https://datatogether.org/posts/04_stewardship/</link>
+      <pubDate>Mon, 14 Oct 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://datatogether.org/posts/04_stewardship/</guid>
+      <description>Data Together is a community of people building a better future for data. We engage in a monthly Reading Group on themes relevant to information and ethics. Participants&amp;rsquo; backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.
+This reading group is something your own collective can do too! We encourage you to draw on our notes document template for this month&amp;rsquo;s topic. The template lists readings, calls out themes, and suggests discussion questions.</description>
+    </item>
+    
+    <item>
+      <title>Discussion: Alternatives to Capitalist Structures (June 2019)</title>
+      <link>https://datatogether.org/posts/03_alternatives_capitalist/</link>
+      <pubDate>Mon, 08 Jul 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://datatogether.org/posts/03_alternatives_capitalist/</guid>
+      <description>Data Together is a community of people building a better future for data. We engage in a monthly Reading Group on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.
+This reading group is something your own collective can do too!</description>
+    </item>
+    
+    <item>
+      <title>Discussion: Civics (May 2019)</title>
+      <link>https://datatogether.org/posts/02_civics/</link>
+      <pubDate>Wed, 05 Jun 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://datatogether.org/posts/02_civics/</guid>
+      <description>Data Together is a community of people building a better future for data. We engage in a monthly Reading Group on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.
+This reading group is something your own collective can do too!</description>
+    </item>
+    
+    <item>
+      <title>Discussion: the Knowledge Commons (April 2019)</title>
+      <link>https://datatogether.org/posts/01_knowledge_commons/</link>
+      <pubDate>Tue, 28 May 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://datatogether.org/posts/01_knowledge_commons/</guid>
+      <description>Data Together is a community of people building a better future for data. We engage in a monthly Reading Group on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.
+This reading group is something your own collective can do too!</description>
+    </item>
+    
+    <item>
+      <title>Summer - Fall 2018 Data Together Reading Group</title>
+      <link>https://datatogether.org/reading/semester_1/</link>
+      <pubDate>Wed, 31 Oct 2018 18:00:00 -0400</pubDate>
+      
+      <guid>https://datatogether.org/reading/semester_1/</guid>
+      <description>Summer - Fall 2018 Data Together Reading Group The goal of this &amp;ldquo;syllabus&amp;rdquo; is to identify some themes that drive Data Together as a project &amp;amp; as a politics, and to find some readings that help us understand those themes better.
+Themes  A view on the decentralized (distributed) web (June 26)
+🎬 Recorded Call &amp;nbsp; 🗒 Notes Ownership (July 24)
+🎬 Recorded Call &amp;nbsp; 🗒 Notes Commons (August 21)</description>
+    </item>
+    
+  </channel>
+</rss>
