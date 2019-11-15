@@ -49,6 +49,12 @@ draft: false
       <h2 class="tagline">Media</h2>
       <br />
       <div class="text col-md-4">
+        <p>DWeb Basics</p>
+        <iframe max-height="315" width="100%" src="https://docs.google.com/presentation/d/1Gx8vSqrWZ7X-3SCgITXqQdinZQeXIAA7ITqL25SsPN8/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
+        <p>File sharing with Dat & IPFS</p>
+        <p>Slides: <a href="presentations/DWeb%20Basics%20-%20File%20Sharing%20with%20Dat%20and%20IPFS.pdf">PDF</a></p>
+      </div>
+      <div class="text col-md-4">
         <p><a href="http://2017.code4lib.org/">Code4Lib 2017</a></p>
         <iframe max-height="315" width="100%" src="https://www.youtube.com/embed/xRuPShYelm4" frameborder="0" allowfullscreen></iframe>
         <p>Golden Age for Libraries - Storing Data Together</p>
