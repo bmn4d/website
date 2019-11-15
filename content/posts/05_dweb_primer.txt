@@ -1,5 +1,5 @@
 ---
-title: "Understanding how the Decentralized Web Works"
+title: "Presentation: Understanding how the Decentralized Web Works"
 tagline: "DWeb Primer"
 date: 2019-11-15T13:00:00-04:00
 draft: false
